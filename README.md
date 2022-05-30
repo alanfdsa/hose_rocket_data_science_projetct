@@ -1,6 +1,6 @@
-# house_rocket_data_science
+# house_rocket_data_science (on going)
 
-#  Description
+#  Introduction
 House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio e a estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço.
 Logo, as questões que guiam o estudo é que imóveis a empresa deve comprar e por qual preço e qual é o melhor momento para o vender pelo melhor preço.
 
