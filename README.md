@@ -1,4 +1,4 @@
-# house_rocket_data_science (on going)
+# house_rocket_data_analysis (on going)
 
 #  Introduction
 House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio e a estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço.
@@ -35,10 +35,22 @@ Variável | Definição
 |sqft_living15 | O tamanho médio em pés quadrados do espaço interno de habitação para as 15 casas mais próximas.|
 |sqft_lot15 | Tamanho médio dos terrenos em metros quadrados para as 15 casas mais próximas.|
 
+# Pastas e códigos
+
+### app/
+Pasta que armazena os códigos para o aplicativo criado no streamlit e com os pré requisitos para fazer o deploy no Heroku
+#### teste
+
+### aulas/
+
+
 #  Tools
 
    * Jupyter notebook
    * Python
    * Pandas
-   * plotly.express
+   * Geopandas
+   * Streamlit
+   * Folium
+   * Numpy
  
