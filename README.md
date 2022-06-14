@@ -6,8 +6,7 @@ Logo, as questões que guiam o estudo é que imóveis a empresa deve comprar e p
 
 #  Dataset
 
- * Data for this project can be found at: https://www.kaggle.com/harlfoxem/housesalesprediction<br>
- * This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.<br>
+ * Baixado do site: https://www.kaggle.com/harlfoxem/housesalesprediction<br>
  
 ## As variáveis do dataset original são:
 
