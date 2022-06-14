@@ -1,6 +1,6 @@
 # house_rocket_data_analysis (on going)
 
-#  Introduction
+#  Introdução
 House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio e a estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço.
 Logo, as questões que guiam o estudo é que imóveis a empresa deve comprar e por qual preço e qual é o melhor momento para o vender pelo melhor preço.
 
@@ -37,14 +37,23 @@ Variável | Definição
 
 # Pastas e códigos
 
+### AnotaçõesAulas.ipynb - anotações realizadas baseadas nas aulas
+
+### CasasCompradas.ipynb - manipulação dos dados junto das hipóteses de negócio para decidir quais são as possíveis casas candidatas a se comprar.
+
+### dados.csv - dados tratados e manipulados (com novas colunas)
+
+### dados_port.csv - dados relevantes às possíveis casas candidatas para compra
+
 ### app/
 Pasta que armazena os códigos para o aplicativo criado no streamlit e com os pré requisitos para fazer o deploy no Heroku
-#### teste
+#### dashboard.py - visualização das informações das casas disponíveis para a compra
+#### dashboard_port.py - visualização das informações das possíveis casas para comprar e seus respectivos preços de vendas e lucro
 
 ### aulas/
+Pasta destinada a armazenar as aulas ministradas e conteúdos relevantes
 
-
-#  Tools
+#  Ferramentas
 
    * Jupyter notebook
    * Python
@@ -53,4 +62,15 @@ Pasta que armazena os códigos para o aplicativo criado no streamlit e com os pr
    * Streamlit
    * Folium
    * Numpy
+   * Heroku
+
+# Etapas
+
+   * Coleta dos dados via kaggle ()
+   * Entendimento do objetivo da empresa
+   * Limpeza dos dados
+   * Processamento dos dados
+   * Exploração dos dados
+   * Criação do app com dashboards
+   * Deploy no Heroku
  
