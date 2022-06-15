@@ -52,6 +52,10 @@ Pasta que armazena os códigos para o aplicativo criado no streamlit e com os pr
 ### aulas/
 Pasta destinada a armazenar as aulas ministradas e conteúdos relevantes
 
+### midia/
+Pasta destinada a demonstrar os resultados do projeto. Nesse caso os prints são do arquivo dashboard.py que se localiza na pasta app/
+O outro aplicativo dashboard_port.py se destina a mostrar a mesma interface que o dasboard.py só que com as possíveis casas candidata.
+
 #  Ferramentas
 
    * Jupyter notebook
